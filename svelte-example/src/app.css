@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+	background-color: transparent;
+}
+
+.settings {
+	background-color: #18181b !important;
+	color: #fff;
+}
